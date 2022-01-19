@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Vue3 源码之路',
+  name: '源码练习生-Vue专栏(By Seho)',
   domain: 'seho-doc.notion.site',
   author: 'Seho',
 
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'seho20001123',
+  github: '1018715564',
+  linkedin: '昊-沈-721b50213',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
